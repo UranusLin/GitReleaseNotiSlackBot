@@ -23,7 +23,12 @@ chmod 700 run.sh
 
 #### slack channel name 
 ```pychon
-slack_group = "XXXXXXX"
+slack_channel = "XXXXXXX"
+```
+
+#### key word setting 
+```python
+flag_list = ['hardfork', 'fork']
 ```
 
 git release template just for support GitHub and GitLab
